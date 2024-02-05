@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kazer</h1>
 <h3 align="center">A passionate Frontend and UI/UX developer from Philippines</h3>
-<img align="right" alt="coding" width="300" height="300" src="https://fcl.org/images/uploads/20230120/800_121585-computer-programming-213309.gif"</img>
+<img align="right" alt="coding" width="300" height="300" src="https://fcl.org/images/uploads/20230120/800_121585-computer-programming-213309.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazerpanol&label=Profile%20views&color=0e75b6&style=flat" alt="kazerpanol" /> </p>
 
