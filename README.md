@@ -5,8 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazerpanol&label=Profile%20views&color=0e75b6&style=flat" alt="kazerpanol" /> </p>
 
 - 🔭 I’m currently working on **Praetorian Intelligance Inc.**
-
 - 🌱 I’m currently learning **Node and React JS**
+- 📫 How to reach me kazer.panol8@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
